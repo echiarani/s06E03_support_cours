@@ -1,0 +1,10 @@
+; Un commentaire
+; Informations de connexion à la base de donnée
+[database]
+host =
+username =
+password =
+name =
+
+; Router
+base_path = ""
